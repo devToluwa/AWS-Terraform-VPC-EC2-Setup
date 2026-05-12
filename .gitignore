@@ -1,0 +1,14 @@
+# Terraform files
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+
+# Crash logs
+crash.log
+
+# AWS credentials
+.aws/
+
+/secrets
