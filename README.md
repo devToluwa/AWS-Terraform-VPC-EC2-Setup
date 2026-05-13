@@ -15,16 +15,16 @@ Provisioning a complete AWS networking stack and EC2 instance using Terraform. I
 ## Screenshots
 
 **Terraform applying all 8 resources:**
-![Terraform Apply](screenshots/Terraform apply output.png)
+![Terraform Apply](screenshots/terraform-apply.png)
 
 **VPC, subnet and internet gateway in AWS:**
-![VPC Dashboard](screenshots/AWS VPC Console.png)
+![VPC Dashboard](screenshots/vpc-console.png)
 
 **EC2 instance running:**
-![EC2 Running](screenshots/AWS EC2 Console.png)
+![EC2 Running](screenshots/ec2-console.png)
 
 **SSH session into the EC2:**
-![SSH Session](screenshots/SSH Session.png)
+![SSH Session](screenshots/ssh-session.png)
 
 ## Prerequisites
 
